@@ -62,7 +62,7 @@ The precision and recall for low risk were 100% and 94%, respectively.
 
 ## Summary
 
-Below is the summary of the top six models which scored the highest balanced accuracy scores:- 
+Below is the summary of the top three models which scored the highest balanced accuracy scores:- 
 - Easy Ensemble Classifier 93%.
 - Random Forest 68%.
 - SMOTE 66%.

@@ -24,7 +24,6 @@ The balanced accuracy score was 65% and the precision for the high risk had a ve
 recall of 69% and the F1 was 2%. The higher number of populations for low risk resulted a 100% precision with a recall of 61%. 
 
 ![](Oversampling.png)
-
 ##### SMOTE Oversampling 
 
 Based on this model the balanced accuracy score was 66%, precision (1%), and F1 (2%) for high risk results were 
